@@ -1,0 +1,5 @@
+serie,familia,units,learning_rate,dropout,test_MAE,test_RMSE,es_mejor
+total,Modelo 1 (LSTM simple),64,0.01,0.0,35687.19733419126,46499.83700208911,True
+total,Modelo 2 (LSTM + Dropout),32,0.001,0.3,39388.64308223726,50616.31065179751,False
+via_aerea,Modelo 1 (LSTM simple),32,0.01,0.0,13939.921977753984,18115.275391266117,True
+via_aerea,Modelo 2 (LSTM + Dropout),32,0.001,0.3,15745.084614162713,19451.87151865511,False

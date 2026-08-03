@@ -1,0 +1,3 @@
+modelo,MAE,RMSE
+LSTM (ventana de valores crudos) - mejor de Ejercicio 1,35687.19733419126,46499.83700208911
+LSTM + caracteristicas catch22 (rolling),236903.27627912583,289520.0441315107

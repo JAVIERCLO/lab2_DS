@@ -1,0 +1,8 @@
+serie,label,fuerza_tendencia,fuerza_estacionalidad,volatilidad_pct,impacto_pandemia_pct,nota
+total,Total mensual de viajeros (Turista+Excursionista),0.7834731584110239,0.22573928301369306,32.73806877040527,-74.35367468222354,
+via_aerea,Viajeros por vía Aérea,0.7066376769811598,0.14763709384379364,48.74662034698508,-72.79703657000128,
+via_terrestre,Viajeros por vía Terrestre,0.8181230317267453,0.2876473565172184,38.47282160813607,-75.22540476711872,
+via_maritima,Viajeros por vía Marítima,,,,,serie degenerada (>30% meses en cero)
+region1,Viajeros por región: América Del Centro,0.7917838389040239,0.24507299330338816,31.933866307282138,-74.43109540812259,
+region2,Viajeros por región: América Del Norte,0.6374187504301254,0.09392385356096333,107.37849669244954,-74.14430859767525,
+region3,Viajeros por región: Europa,0.7166361749512044,0.18768980222207143,85.92120081427838,-71.82969989681763,

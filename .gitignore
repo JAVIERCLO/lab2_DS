@@ -219,3 +219,5 @@ __marimo__/
 
 # archivos generados en el análisis
 *.csv
+# excepto los resultados guardados para el informe (pequeños, se versionan)
+!resultados/*.csv
